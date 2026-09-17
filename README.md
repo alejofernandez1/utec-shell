@@ -1,1 +1,0 @@
-# utec-shell
