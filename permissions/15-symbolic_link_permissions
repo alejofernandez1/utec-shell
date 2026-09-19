@@ -1,2 +1,3 @@
-#!/bin/bash
-chown -h vincent:staff _hell#!/bin/bash
+chmod u+x 15-symbolic_link_permissions
+wc -l 15-symbolic_link_permissions
+cat -n 15-symbolic_link_permissions
