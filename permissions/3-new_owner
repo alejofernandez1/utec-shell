@@ -1,3 +1,2 @@
-chmod u+x 3-new_owner
-wc -l 3-new_owner
-cat -n 3-new_owner
+#!/bin/bash
+chown betty hello
